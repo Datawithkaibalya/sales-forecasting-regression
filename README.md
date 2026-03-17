@@ -1,5 +1,12 @@
 # Sales Forecasting using Regression
 
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+imbalanced-learn
+
 ## 📊 Objective
 Predict future sales using historical data.
 
